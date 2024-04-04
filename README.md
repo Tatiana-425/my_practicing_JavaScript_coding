@@ -7,5 +7,6 @@
 - nested loops;
 - use of the loops and conditional statements together.
 
-2) I add my practicing on functions, arrays, objects:
+2) my practicing on functions, arrays, objects;
+3) my practicing on error handling.
 
